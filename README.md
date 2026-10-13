@@ -188,4 +188,4 @@ Ramdeobaba University, Nagpur
 
 ## Repository
 
-[Salary Prediction – SI Lab](https://github.com/SharGit02/Salary_Prediction_SI_LAB_B3_B2_23_P7A)
+[Salary Prediction – SI Lab]([https://github.com/SharGit02/Salary_Prediction_SI_LAB_B3_B2_23_P7A](https://salary-prediction-academic-project.streamlit.app/))
